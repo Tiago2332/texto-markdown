@@ -16,7 +16,7 @@ Agora colocarei um link na palavra [Google](https://www.google.com.br/)
 
 Agora observe a seguinte imagem, que coisa magnífica 
 
-![](
+![](imagens/pergunta.png) 
 
 
 - Avião
