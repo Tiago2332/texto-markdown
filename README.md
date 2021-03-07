@@ -14,6 +14,9 @@ HTML, por sua flexibilidade.
 
 Agora colocarei um link na palavra [Google](https://www.google.com.br/)
 
+Agora observe a seguinte imagem, que coisa magnífica 
+
+![](
 
 
 - Avião
